@@ -1,1 +1,1 @@
-# douyinhongbao
+抖音抢福袋红包自动脚本,无障碍服务，持续更新，激活码+V xybcfhh
